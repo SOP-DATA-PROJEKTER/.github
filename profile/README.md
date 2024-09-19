@@ -1,6 +1,7 @@
-## SOP - Projekter
+## SOP - DATA - PROJEKTER
 
-**SOP - Projekter** er en GitHub-organisation, der fungerer som et digitalt arkiv for elevernes SOP-projekter. 
+
+**SOP - DATA - PROJEKTER** er en GitHub-organisation, der fungerer som et digitalt arkiv for elevernes SOP-projekter. 
 
 Organisationen giver os mulighed for at:
 
